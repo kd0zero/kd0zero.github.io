@@ -13,7 +13,7 @@ title                    : "我的主页"#标题
 title_separator          : "-"
 name                     : &name "zero"
 description              : &description "Hello Word"
-url                      : https://kd0zero.github.io"
+url                      : "https://kd0zero.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kd0zero/kd0zero.github.io"
 
