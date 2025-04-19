@@ -6,5 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-你好
+你好1212
 
