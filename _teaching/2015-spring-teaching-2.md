@@ -10,11 +10,11 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+项目
 ======
 
-Heading 2
+简历
 ======
 
-Heading 3
+碎碎念
 ======
