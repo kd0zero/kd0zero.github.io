@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"#头像
   name             : "zero"#名字
-  pronouns         : # example: "he"  
+  pronouns         : # example: "你好"  
   bio              : "Short biography for the left-hand sidebar"#个人介绍
   location         : "黑龙江省哈尔滨市"
   employer         : "黑龙江科技大学"
