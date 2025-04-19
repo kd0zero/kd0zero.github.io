@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "HELLO WORD！！！"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-你好1212
+# 欢迎来到zero博客
 
+你好！日常更新部分项目与一些学习日常。
