@@ -1,152 +1,71 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "尹泽晨",
+    "email": "2278985785@qq.com",
+    "phone": "18004605492",
+    "website": "",
+    "summary": "工作积极认真，细心负责，具备较强的分析能力与动手能力。熟练掌握机械视觉、深度学习及单片机编程，拥有丰富的科研项目与学生工作经验，曾获国家级、省级奖项十余项，擅长团队协作与跨部门沟通。",
     "location": {
-      "address": "",
+      "address": "黑龙江省哈尔滨市",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "哈尔滨",
+      "countryCode": "CN",
+      "region": "黑龙江省"
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
+    "profiles": []
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "黑龙江科技大学机电22-1",
+      "position": "学习委员",
+      "startDate": "2022-09",
+      "endDate": "2024-06",
+      "description": "协助老师收发作业，组织同学开展学习互助活动，提升班级整体学习效率。"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "黑龙江科技大学机器人协会",
+      "position": "副会长",
+      "startDate": "2022-09",
+      "endDate": "至今",
+      "description": "统筹赛前培训计划，带队参加全国机器人及人工智能大赛、TRIZ杯等赛事，累计获省级及以上奖项十余项。"
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "黑龙江科技大学招生与就业工作处",
+      "position": "部长",
+      "startDate": "2022-09",
+      "endDate": "至今",
+      "description": "负责企业对接与校园宣讲协调，策划暑期招生宣传活动，帮助学生了解企业需求与行业动态。"
+    },
+    {
+      "institution": "黑龙江科技大学",
+      "position": "智能眼镜省级科研立项负责人",
+      "startDate": "2023-04",
+      "endDate": "2024-06",
+      "description": "主导研发集图像采集、环境识别与语音交互于一体的智能眼镜，负责视觉方向代码编写。项目获第十一届中国TRIZ杯国家级三等奖、第九届天鹅杯国家三等奖、第二十六届机器人及人工智能大赛国家级一等奖，主持省级科研立项1项。"
     }
   ],
-  "skills": [],
+  "education": [
+    {
+      "institution": "黑龙江科技大学",
+      "area": "机械电子工程",
+      "studyType": "本科",
+      "startDate": "2022-09",
+      "endDate": "2026-06",
+      "gpa": null,
+      "courses": ["机械原理", "材料力学", "现代控制理论", "数字电路", "电路理论", "机电一体化", "工业机器人"]
+    }
+  ],
+  "skills": [
+    "办公技能：熟练使用Office、Pr、Ps",
+    "编程语言：Python、C语言、HTML5/CSS",
+    "技术工具：单片机编程、PLC、机械视觉、深度学习",
+    "证书：机械设计工程师Catia技能证书、普通话二级甲等"
+  ],
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
